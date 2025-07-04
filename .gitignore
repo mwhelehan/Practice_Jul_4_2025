@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Python environment files
+*.env
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MyPy / Pyright / Linter cache
+.mypy_cache/
+.pyright/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Copilot suggestion cache
+copilot.*
+
+# Anki backup (if syncing)
+*.anki2
+*.apkg
