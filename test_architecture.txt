@@ -1,0 +1,20 @@
+🌌 Project: TEst
+📝 Vision:
+Its a test
+
+🔧 Core Functionalities:
+- test
+- test
+- test
+
+📦 Suggested Components:
+- Component_1: test
+- Component_2: test
+- Component_3: test
+
+💻 Tech Stack:
+- Python
+- Kivy
+- SQLite (simple) or PostgreSQL (scalable)
+
+📅 Created on: 2025-07-04 20:29:21.605128
